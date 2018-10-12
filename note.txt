@@ -1,0 +1,13 @@
+满足SE/PE 的 QC 环节
+	
+	fastq : 整合fq、fastq两个命名方式的文件的质控环节
+	  |
+	  |
+	Bowtie : 去除rRNA序列
+	  |
+	  |
+	SOAPnuke ：clean Data，看是否adapter过高
+
+
+		rawData
+		
